@@ -105,5 +105,5 @@ node server/index.js
 
 
 ```
-# react-with-ssr
+
 # react-with-ssr-example
